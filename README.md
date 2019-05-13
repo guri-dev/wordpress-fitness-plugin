@@ -6,6 +6,10 @@ This calculator will ask you about Age, Gender, height, weight,Activity level an
 After calculating the given data, this calculator will show you the exact water intake one should have to take.
 Shortcode : [fcp-water-intake-calculator]
 
+![alt text](https://ps.w.org/fitness-calculators/assets/screenshot-1.png?rev=1958015)
+
+
+
 2) Protein Intake calculator
 This calculator will ask you about Age, Gender, height, weight,Activity level and you goal.
 After calculating the given data, this calculator will show you the exact protein intake one should have to take.
