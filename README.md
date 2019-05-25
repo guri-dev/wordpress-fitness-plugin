@@ -69,14 +69,6 @@ In the search field type Fitness Calculator Plugin and click Search Plugins. Onc
 
 The manual installation method involves downloading our Fitness Calculator Plugin and uploading it to your webserver via your favourite FTP application. 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/gaganphp/wordpress-fitness-plugin/) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/gaganphp/wordpress-fitness-plugin/). 
-
 ## Authors
 
 * **Gurcharan Singh** - *Initial work* - [gaganphp](https://github.com/gaganphp)
