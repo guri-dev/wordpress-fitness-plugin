@@ -3,6 +3,8 @@
 
 
 Plugin for calculating Water intake, BMI calculator, protein Intake for the fitness freaks.
+
+
 1) Water Intake calculator
 This calculator will ask you about Age, Gender, height, weight,Activity level and weather of your area.
 After calculating the given data, this calculator will show you the exact water intake one should have to take.
