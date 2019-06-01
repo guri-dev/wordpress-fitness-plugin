@@ -79,3 +79,6 @@ The manual installation method involves downloading our Fitness Calculator Plugi
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## log
+- Upcoming feature (calculators in the side bar with the help of widgets)
+
