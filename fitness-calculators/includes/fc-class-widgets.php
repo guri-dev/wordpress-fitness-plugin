@@ -2,6 +2,7 @@
 // Register and load the widget
 function Fcpwater_load_widget() {
         register_widget( 'Fcpwater_widget' );
+        register_widget( 'Fcpprotein_widget' );
 }
 add_action( 'widgets_init', 'Fcpwater_load_widget' );
  
